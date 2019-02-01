@@ -2,7 +2,11 @@
 
 A customized light theme for xfce-terminal that uses beautiful flat colors.
 
-## installation
+## Screenshot
+![screenshot](./screenshot.png)
+
+
+## Installation
 
 * clone the directory or download the zip file
 * copy 'isooth.theme' file to '~/.local/share/xfce4/terminal/colorschemes/'
