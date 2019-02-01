@@ -1,4 +1,4 @@
-#isooth
+# isooth
 
 A customized light theme for xfce-terminal that uses beautiful flat colors.
 
